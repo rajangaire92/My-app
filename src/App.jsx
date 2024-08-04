@@ -6,6 +6,8 @@ function App() {
   return (
     <div>
       {/* <ReactQuery></ReactQuery> */}
+      <h1>hello</h1>
+      <h1>Rajan</h1>
       <Card></Card>
     </div>
   );
